@@ -1,6 +1,4 @@
-html{font-size:16px}
-body{font-family:Microsoft YaHei,MicrosoftJhengHei,STHeiti,MingLiu,sans-serif;font-size:1rem;background-color:#fff;-webkit-font-smoothing:antialiased;overflow-x:hidden}
-p{color:#555;line-height:1.8em}
-h1,h2,h3,h4,h5,h6{font-family:Montserrat,sans-serif;color:#2a2a2a;font-weight:700}
-ul{list-style-type:none;padding-left:0;margin:0}
-a:focus,a:hover{text-decoration:none}
+html{font-size:12px}
+body{font-family:Microsoft YaHei,MicrosoftJhengHei,STHeiti,MingLiu,sans-serif;}
+h1,h2,h3,h4,h5,h6{font-family:Montserrat,sans-serif;color:#2a2a2a;}
+p{color:#555;}
