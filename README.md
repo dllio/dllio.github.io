@@ -37,6 +37,7 @@ https://play.google.com/store/apps/details?id=com.ideacreatorcorp.luckrpoker
 https://itunes.apple.com/app/id1490220973
 
 ##### 二次元海战（SLG策略游戏）
+https://www.youtube.com/watch?v=pchw65Qhvhs
 
 ##### 横板格斗(ARPG游戏)
 
