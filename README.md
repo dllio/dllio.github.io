@@ -25,4 +25,16 @@ https://play.google.com/store/apps/details?id=com.ideacreatorcorp.luckrpoker
 Battle of Cells: New Match 3
 https://itunes.apple.com/app/id1490220973
 
-SLG策略游戏、ARPG游戏、坦克对战、狼人杀...等等（更多不能公开项目）. 
+二次元海战（SLG策略游戏）
+
+横板格斗(ARPG游戏)
+
+坦克对战（moba游戏）
+
+狼人杀(多人坊间游戏)
+
+NFT游戏（区块链）
+
+Defi应用（区块链）
+
+等等（更多不能公开项目）. 
