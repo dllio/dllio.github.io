@@ -40,6 +40,8 @@ https://itunes.apple.com/app/id1490220973
 https://www.youtube.com/watch?v=pchw65Qhvhs
 
 ##### 横板格斗(ARPG游戏)
+Zombie Hunter ：Survivors Fighting（投入产出 1：10）
+https://play.google.com/store/apps/details?id=com.xyd.zombie.hunter
 
 ##### 坦克对战（moba游戏）
 
