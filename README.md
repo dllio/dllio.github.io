@@ -24,6 +24,10 @@ https://play.google.com/store/apps/details?id=com.rasharpgames.monstershootergo
 
 https://itunes.apple.com/app/id1516563251
 
+##### Kitty Blast
+
+https://itunes.apple.com/app/id1453998332
+
 ##### Fast Hit Slots-Triple Red Hot 777 Slots Casinos
 
 https://play.google.com/store/apps/details?id=quickhit.progressive.jackpot.slots.classic
