@@ -1,4 +1,4 @@
-#### Dll.io 案例作品展示：
+#### Dll.io Project case：
 
 #### Parking Lot Escape 
 
@@ -40,20 +40,18 @@ https://play.google.com/store/apps/details?id=com.ideacreatorcorp.luckrpoker
 
 https://itunes.apple.com/app/id1490220973
 
-##### 二次元海战（SLG策略游戏）
+##### SLG games
 https://www.youtube.com/watch?v=pchw65Qhvhs
 
-##### 横板格斗(ARPG游戏)
+##### ARPG game
 Zombie Hunter ：Survivors Fighting
 
 https://play.google.com/store/apps/details?id=com.xyd.zombie.hunter
 
-##### 坦克对战（moba游戏）
+##### moba game
 
-##### 狼人杀(多人游戏)
+##### The werewolf killed
 
-##### NFT游戏（区块链）
+##### blockchain game ：octopus 、 cryptotycoon、 horse、 avatar、nft-ex...
 
-##### Defi应用（区块链）
-
-等等（更多不能公开项目）. 
+... 
