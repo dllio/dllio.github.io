@@ -49,9 +49,18 @@ Zombie Hunter ：Survivors Fighting
 https://play.google.com/store/apps/details?id=com.xyd.zombie.hunter
 
 ##### moba game
+WhosYourDaddy
 
 ##### The werewolf killed
+Mianyoupai
 
-##### blockchain game ：octopus 、 cryptotycoon、 horse、 avatar、nft-ex...
+##### blockchain game 
 
-... 
+nftoctopus.com
+cryptotycoon.finance
+nft.horse
+avatar
+Nft-Dex
+DAO-bbs
+more...
+
