@@ -56,17 +56,19 @@ Mianyoupai
 
 ##### blockchain game 
 
-https://cryptotycoon.finance
+tycoon
 
-https://nftoctopus.com
+octopus
 
-https://nft.horse
+horse
 
-https://nftavatar.com
+avatar
 
-https://NftDex.com
+Dex
 
 DAO-bbs
+
+Vegas
 
 more...
 
